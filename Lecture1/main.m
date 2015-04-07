@@ -10,6 +10,7 @@
 // My First Comment
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
+        // This is our second comment
         // insert code here...
         NSLog(@"Hello, World!");
     }
